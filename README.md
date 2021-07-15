@@ -6,6 +6,3 @@ Check my 🖋 [Chinese blog](https://blog.yahui.wang/)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahuiWong&theme=merko&layout=compact&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" alt="Roddy's github top languages" />
 </a>
 <br/>
-```
-
-```
